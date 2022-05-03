@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/org.sv.gui.qt.modeling">
+<file>plugin.xml</file>
+<file>resources/model.png</file>
+</qresource>
+</RCC>

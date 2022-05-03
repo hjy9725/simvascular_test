@@ -1,0 +1,25 @@
+#ifndef SV4GUIMODULEROMSIMULATION_EXPORT_H
+#define SV4GUIMODULEROMSIMULATION_EXPORT_H
+
+#include "SimVascular.h"
+
+#ifdef SV4GUIMODULEROMSIMULATION_STATIC_DEFINE
+#  define SV4GUIMODULEROMSIMULATION_EXPORT
+#  define SV4GUIMODULEROMSIMULATION_NO_EXPORT
+#else
+#  ifndef SV4GUIMODULEROMSIMULATION_EXPORT
+#    ifdef sv4guiModuleROMSimulation_EXPORTS
+       /* We are building this library */
+#      define SV4GUIMODULEROMSIMULATION_EXPORT SV_DLL_EXPORT
+#    else
+       /* We are using this library */
+#      define SV4GUIMODULEROMSIMULATION_EXPORT SV_DLL_IMPORT
+#    endif
+#  endif
+
+#  ifndef SV4GUIMODULEROMSIMULATION_NO_EXPORT
+#    define SV4GUIMODULEROMSIMULATION_NO_EXPORT
+#  endif
+#endif
+
+#endif

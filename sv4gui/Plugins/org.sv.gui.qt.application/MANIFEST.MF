@@ -1,0 +1,6 @@
+Plugin-SymbolicName: org.sv.gui.qt.application
+Plugin-Name: SimVascular Application
+Plugin-Version: 1.0.0
+Plugin-Vendor: Stanford Medicine
+Plugin-ContactAddress: http://www.simvascular.org
+Require-Plugin: org.mitk.gui.qt.extapplication

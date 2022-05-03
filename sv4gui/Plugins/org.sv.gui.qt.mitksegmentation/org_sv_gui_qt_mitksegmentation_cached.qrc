@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/org.sv.gui.qt.mitksegmentation">
+<file>resources/segmentation.svg</file>
+<file>resources/deformablePlane.png</file>
+<file>resources/clipping_plane_translate_48x48.png</file>
+<file>resources/clipping_plane_rotate48x48.png</file>
+<file>resources/clipping_plane_deform48x48.png</file>
+<file>resources/segmentation_utilities.svg</file>
+<file>plugin.xml</file>
+</qresource>
+</RCC>

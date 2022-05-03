@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/org.sv.pythondatanodes">
+<file>resources/svrepositoryfolder.png</file>
+</qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/org.sv.gui.qt.segmentation">
+<file>plugin.xml</file>
+<file>resources/contourgroup.png</file>
+<file>resources/svseg3d.png</file>
+</qresource>
+</RCC>

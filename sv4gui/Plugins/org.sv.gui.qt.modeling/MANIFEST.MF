@@ -1,0 +1,6 @@
+Plugin-SymbolicName: org.sv.gui.qt.modeling
+Plugin-Name: SimVascular Modeling
+Plugin-Version: 1.0
+Plugin-Vendor: Stanford Medicine
+Plugin-ContactAddress: http://www.simvascular.org
+Require-Plugin: org.mitk.gui.qt.common.legacy,org.mitk.gui.qt.common,org.sv.gui.qt.datamanager
